@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROHIT-1112 aka (ROOHIT CHATURVEDI)
+- 👋 Hi, I’m @ROHIT-1112 aka (ROHIT CHATURVEDI)
 - 👀 I’m interested in Software Development, CyberSecurity and Data Analysis and Visualization using Python and Tableau. 
 - 🌱 I’m currently learning Python,Docker,Tableau and Bash.
 - 💞️ I’m looking to collaborate on Software Dev , Cybersecurity and Data Visualization.
