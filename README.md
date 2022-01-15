@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROHIT-1112 aka (ROHIT CHATURVEDI)
+- 👋 Hi, I’m @Blunt_Analyst aka (ROHIT CHATURVEDI)
 - 👀 I’m interested in Software Development, CyberSecurity and Data Analysis and Visualization using Python and Tableau. 
 - 🌱 I’m currently learning Python,SQL,Data Visualization .
 - 💞️ I’m looking to collaborate on Software Dev , Cybersecurity and Data Visualization.
